@@ -23,3 +23,7 @@ public class viewController extends AppCompatActivity {
     //public void test(){}
     //2nd changes
 }
+
+Public class jambo {
+
+}
