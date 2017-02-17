@@ -19,5 +19,6 @@ public class viewController extends AppCompatActivity {
         TextView priceTV;
         priceTV = (TextView) findViewById(R.id.priceTV);
 
+    }
+    public void test(){}
 }
-
